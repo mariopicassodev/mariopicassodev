@@ -1,4 +1,4 @@
-Computer science student at the moment.
+Computer science student at UNC FAMAF.
 
 Interested in distributed systems and security.
 
