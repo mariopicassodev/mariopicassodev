@@ -1,11 +1,7 @@
-Computer science student at UNC FAMAF.
-
-Interested in distributed systems and security.
+Blockchain Developer. Computer Science student.
 
 Contact me at: 
 mariopicassodev@gmail.com
-I share content at:
-https://twitter.com/azzzucarNegra
 
 
 <!---
