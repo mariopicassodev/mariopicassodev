@@ -1,4 +1,4 @@
-Blockchain Developer. Computer Science student.
+Blockchain Developer. Computer Science at FAMAF UNC.
 
 Contact me at: 
 mariopicassodev@gmail.com
