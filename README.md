@@ -1,4 +1,4 @@
-Blockchain Developer. Computer Science at FAMAF UNC.
+Blockchain Developer at RatherLabs. Computer Science at FAMAF UNC.
 
 Contact me at: 
 mariopicassodev@gmail.com
